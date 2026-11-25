@@ -1,4 +1,8 @@
 import { registerRootComponent } from 'expo';
+import notifee from '@notifee/react-native';
+import { handlePromptEvent } from './src/features/ingestion';
+
+notifee.onBackgroundEvent(handlePromptEvent);
 
 import App from './App';
 

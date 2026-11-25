@@ -1,0 +1,22 @@
+[
+  { "category": "Private Sector", "bank": "HDFC Bank", "headers": ["HDFCBK", "HDFCBN"] },
+  { "category": "Private Sector", "bank": "ICICI Bank", "headers": ["ICICIB", "ICICIT", "ICICIX"] },
+  { "category": "Private Sector", "bank": "Axis Bank", "headers": ["AXISBK", "AXISBN"] },
+  { "category": "Private Sector", "bank": "Kotak Mahindra Bank", "headers": ["KOTAKB", "KOTAKN"] },
+  { "category": "Private Sector", "bank": "IDFC First Bank", "headers": ["IDFCFB", "IDFCFT"] },
+  { "category": "Private Sector", "bank": "IndusInd Bank", "headers": ["INDUSI", "ILBANK"] },
+  { "category": "Private Sector", "bank": "YES Bank", "headers": ["YESBNK", "YESBND"] },
+  { "category": "Private Sector", "bank": "Federal Bank", "headers": ["FEDBNK"] },
+  { "category": "Private Sector", "bank": "RBL Bank", "headers": ["RBLBNK", "RATNAK"] },
+  { "category": "Public Sector", "bank": "State Bank of India (SBI)", "headers": ["SBIBNK", "SBINBK", "SBIINB"] },
+  { "category": "Public Sector", "bank": "Bank of Baroda (BoB)", "headers": ["BOBTXN", "BARODA"] },
+  { "category": "Public Sector", "bank": "Punjab National Bank (PNB)", "headers": ["PNBSMS", "PNBBNK"] },
+  { "category": "Public Sector", "bank": "Canara Bank", "headers": ["CANARA", "CNRBNK"] },
+  { "category": "Public Sector", "bank": "Union Bank of India", "headers": ["UBIIND", "UNIONB"] },
+  { "category": "Public Sector", "bank": "Indian Bank", "headers": ["INDBNK"] },
+  { "category": "Public Sector", "bank": "Bank of India (BoI)", "headers": ["BOISMS", "BOIBNK"] },
+  { "category": "Public Sector", "bank": "IDBI Bank", "headers": ["IDBIBK"] },
+  { "category": "Digital & Payments", "bank": "Airtel Payments Bank", "headers": ["AIRBNK"] },
+  { "category": "Digital & Payments", "bank": "Paytm Payments Bank", "headers": ["PAYTMB"] },
+  { "category": "Digital & Payments", "bank": "Jio Payments Bank", "headers": ["JIOBNK"] }
+]
